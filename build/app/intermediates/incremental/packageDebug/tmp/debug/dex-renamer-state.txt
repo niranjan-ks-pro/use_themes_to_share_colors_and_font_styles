@@ -1,0 +1,4 @@
+#Tue Jul 18 12:23:22 IST 2023
+base.0=D\:\\GitHub\\Flutter_doc_CokBK_Des_themes_to_share_colors _font\\use_themes_to_share_colors_and_font_styles\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
